@@ -1,0 +1,6 @@
+{
+  "GOOGLE_APPLICATION_CREDENTIALS": "",
+  "transcription_model": "command_and_search",
+  "your_name": "",
+  "speech_context_phrases": [""]
+}
