@@ -24,7 +24,7 @@
 
 
 
-Welcome to ezdb! ezdb is a small and simple in-memory NoSQL database. This repo is the original project. More languages are going to come in the future.
+Welcome to charlie. Your voice-activated, classy personal assistant for any operating system.
 
 ## Installation
 
